@@ -6,6 +6,8 @@ const express = require('express')
     , foods = require('./routes/foods')
     , restaurants = require('./routes/restaurants')
 
+app.use(cors())
+
 mongoose.connect('mongodb://localhost/simple-api-crud-nugraha', ()=>{
   console.log(`connect to mongodb database`);
 })
