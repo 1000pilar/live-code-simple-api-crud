@@ -1,7 +1,7 @@
 # live-code-simple-api-crud
 
 ## Deskripsi
-ini merupakan contoh simple-api-crud yang mempunyai 2 collection
+ini merupakan contoh simple-api-crud yang mempunyai 2 collection berjalan di database simple-api-crud-nugraha
 1. foods
 1. restaurant
 
